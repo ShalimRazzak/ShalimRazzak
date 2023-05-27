@@ -17,5 +17,5 @@
 [<img align="left" alt="Shalim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[instagram]: [https://www.instagram.com/shalimrazzak1](https://www.instagram.com/shalimrazzak1/)
+[instagram]: https://www.instagram.com/shalimrazzak1
 [linkedin]: https://www.linkedin.com/in/shalim-razzak
