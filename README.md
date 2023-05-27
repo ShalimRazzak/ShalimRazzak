@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shalim, an <a href="www.linkedin.com/in/shalim-razzak">IT Professional</a> </h1>
+<h1>Hi, I'm Shalim, an <a href="[www.linkedin.com/in/shalim-razzak](https://www.linkedin.com/in/shalim-razzak)">IT Professional</a> </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
