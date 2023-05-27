@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: www.linkedin.com/in/shalim-razzak
+[linkedin]: https://www.linkedin.com/in/shalim-razzak
