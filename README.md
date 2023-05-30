@@ -10,9 +10,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Shalim | Twitter" width="75px" src="https://i.imgur.com/IqICeqR.png" />][youtube]
+[<img align="left" alt="Shalim | Twitter" height="25px" width="75px" src="https://i.imgur.com/IqICeqR.png" />][youtube]
 [<img align="left" alt="Shalim | LinkedIn" height="25px" width="75px" src="https://i.imgur.com/vmh7Kph.png" />][linkedin]
-[<img align="left" alt="Shalim | Instagram" width="75px" src="https://i.imgur.com/JjYvaZz.jpg" />][instagram]
+[<img align="left" alt="Shalim | Instagram" height="25px" width="75px" src="https://i.imgur.com/JjYvaZz.jpg" />][instagram]
 
 [youtube]: https://www.youtube.com/@todotechpr7918
 [instagram]: https://www.instagram.com/shalimrazzak1
