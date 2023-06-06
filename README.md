@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>VirtualBox</b>
+  - [How to install Windows 11 on VirtualBox without an online account](https://github.com/ShalimRazzak/win11-no-network)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ShalimRazzak/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ShalimRazzak/osticket-post-install-config)
